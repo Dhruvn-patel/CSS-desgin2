@@ -1,0 +1,62 @@
+<div class="section5">
+            <div class="sec5-div">
+                <div class="sec5-logos">
+                    <div class="sec5-box">
+
+                        <div class="benifits">
+                            <span>Your benifits</span>
+                        </div>
+                        <div class="sec5-ins">
+                            <p>
+                                <span class="sec5-span">We're your right</span>
+                                <span class="sec5-span">insurance advocate</span>
+                            </p>
+                        </div>
+                    </div>
+
+
+
+                    <div class="sec5-box">
+                        <img class='sec5-logo' src="./assets/images/path.png" alt="">
+                        <h3 class="sec3-h3">We have the best prices</h3>
+                        <span class="sec3-span">our insurance plans offers are priced</span>
+                        <span class="sec3-span">the same everywhere else. We just make</span>
+                        <span class="sec3-span">them easier for you to find.</span>
+                    </div>
+
+                    <div class="sec5-box">
+                        <img class='sec5-logo' src="./assets/images/Path.png" alt="">
+                        <h3 class="sec3-h3">We’re your insurance advocate</h3>
+                        <span class="sec3-span">We will deal with the insurance</span>
+                        <span class="sec3-span">companies for you,even after you’ve</span>
+                        <span class="sec3-span">bought your plan.</span>
+
+                    </div>
+
+                    <div class="sec5-box">
+                        <img class='sec5-logo' src="./assets/images/Path-3.png" alt="">
+                        <h3 class="sec3-h3">We’re unbiased</h3>
+                        <span class="sec3-span">our online tools help you decide what</span>
+                        <span class="sec3-span">product is best for you. We’re here to</span>
+                        <span class="sec3-span">insurance plan you choose.</span>
+                    </div>
+                    <div class="sec5-box">
+                        <img class='sec5-logo' src="./assets/images/Path-1.png" alt="">
+                        <h3 class="sec3-h3">We’re available 24/7</h3>
+                        <span class="sec3-span">We have your back 24/7 between our</span>
+                        <span class="sec3-span">online chat function , email and</span>
+                        <span class="sec3-span">telephone support.</span>
+                    </div>
+                    <div class="sec5-box">
+                        <img class='sec5-logo' src="./assets/images/Path-2.png" alt="">
+                        <h3 class="sec3-h3">We make insurance simple</h3>
+                        <span class="sec3-span">We’re committed to making applying for</span>
+                        <span class="sec3-span">insurance as simple as can be for our</span>
+                        <span class="sec3-span">customers.</span>
+                    </div>
+
+                </div>
+            </div>
+
+
+        </div>
